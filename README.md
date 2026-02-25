@@ -1,12 +1,14 @@
-### Привет, я Соня! 👋  
+### Hi, I'm Sonya! 👋  
 
-💻 Junior Frontend Developer (в процессе развития)  
-🎓 Бакалавр программной инженерии  
-🎓 Магистрантка по направлению разработка интернет-приложений  
+💻 Junior Frontend Developer in progress  
+🎓 Bachelor’s degree in Software Engineering  
+🎓 Master’s student in Web Application Development  
 
-🌱 Сейчас изучаю **JavaScript** и развиваю навыки во frontend  
-🎨 Работаю с **HTML, CSS**, изучаю **Bootstrap** и **SCSS**  
-⚛️ В планах — освоение **React**  
+🌱 Currently learning **JavaScript** and improving my frontend skills  
+🎨 Working with **HTML, CSS**, exploring **Bootstrap** and **SCSS**  
+⚛️ Planning to dive into **React** next  
 
-✨ Интересно создавать чистые и удобные пользовательские интерфейсы  
-📚 Развиваюсь и учусь шаг за шагом  
+✨ Interested in building clean, user-friendly web interfaces  
+📚 Learning in public and growing step by step  
+
+---
