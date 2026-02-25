@@ -1,6 +1,6 @@
 ### Hi, I'm Sonya! 👋  
 
-💻 Junior Frontend Developer in progress  
+💻 Junior Frontend Developer  
 🎓 Bachelor’s degree in Software Engineering  
 🎓 Master’s student in Web Application Development  
 
@@ -10,6 +10,8 @@
 
 ✨ Interested in building clean, user-friendly web interfaces  
 📚 Learning in public and growing step by step  
+
+#Open to internships and junior opportunities.
 
 
 # 💻 Tech Stack:
